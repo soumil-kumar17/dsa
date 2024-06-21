@@ -8,9 +8,9 @@ public partial class Solution
         {
             return true;
         }
-        
+
         s = new string(s.Where(char.IsLetterOrDigit).ToArray()).ToLower();
-        
+
         int left = 0;
         int right = s.Length - 1;
 

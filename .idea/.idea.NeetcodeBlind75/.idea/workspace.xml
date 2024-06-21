@@ -8,27 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b9f3ad9-4119-43d2-a7a6-62cb39f542ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NeetcodeBlind75/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NeetcodeBlind75/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NeetcodeBlind75/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NeetcodeBlind75/.idea/leetcode/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NeetcodeBlind75/.idea/leetcode/statistics.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NeetcodeBlind75/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.NeetcodeBlind75/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3Sum.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EncodeDecode.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GroupAnagrams.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongestConsecutiveSeq.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeetcodeBlind75.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeetcodeBlind75.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeetcodeBlind75.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProdOfArrayExceptSelf.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TopKFrequentElements.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwoSum.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValidAnagram.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValidPalindrome.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NeetcodeBlind75/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NeetcodeBlind75/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Sum.cs" beforeDir="false" afterPath="$PROJECT_DIR$/3Sum.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "soumil-kumar17"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/soumil-kumar17/dsa",
+    "accountId": "d3a855d4-1342-4300-8345-83e411103ed3"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/49777a643edd44e4be124c762838672a64c00/0e/fe859507/EnumerableHelpers.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/49777a643edd44e4be124c762838672a64c00/5a/026c3786/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
@@ -141,7 +135,7 @@
       <workItem from="1716129804213" duration="8924000" />
       <workItem from="1716266961463" duration="20442000" />
       <workItem from="1718599826656" duration="19000" />
-      <workItem from="1718901509597" duration="5970000" />
+      <workItem from="1718901509597" duration="13324000" />
     </task>
     <servers />
   </component>
